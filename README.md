@@ -1,3 +1,6 @@
 - Bacon
 - Eggs
 - Xbox
+- Blueberries
+- Waffles
+- Soda
